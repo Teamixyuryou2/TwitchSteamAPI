@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Github / Todoist Mashup: Adds Jobs to New Todo List</title>
+		<style>
+			body, form{
+				margin:20px auto;
+				max-width:800px;
+				overflow-x:hidden;
+			}
+			fieldset{
+				display: flex;
+			}
+			input#description{
+				flex-grow:50;
+				margin: 0 20px;
+			}
+			input#location{
+				flex-grow:50;
+				margin: 0 20px;
+			}
+		</style>
+	</head>
+	<body>
+		<form action="search_streamer_id" method="get">
+			<fieldset>
+				<legend>Twitch / Steam Web Api : Find News on game streamer recently played</legend>
+				<label for="streamerid">Streamer ID:</label>
+				<input id="streamerid" name="streamerid" type="text" />
+				<input type="submit">
+			</fieldset>
+		</form>
+	</body>
+</html>
