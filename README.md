@@ -10,3 +10,7 @@ this can still be used!
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
+
+
+https://github.com/user-attachments/assets/3103e651-e620-4ba6-a2c9-e20ad5a47c6b
+
